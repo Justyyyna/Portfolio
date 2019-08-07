@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="btn-left" transform="translate(-9095 -1926)">
+    <rect id="Rechteck_136" data-name="Rechteck 136" width="50" height="50" rx="25" transform="translate(9095 1976) rotate(-90)" fill="#121c1d"/>
+    <g id="Livello_29_2_" transform="translate(9114.35 1958.917) rotate(-90)">
+      <path id="Pfad_69" data-name="Pfad 69" d="M1.742,10.149a.908.908,0,0,1-1.439,0,1.362,1.362,0,0,1,0-1.711h0L7.038.354h0A.919.919,0,0,1,7.787,0a.987.987,0,0,1,.806.472h0l6.736,8.084h0a1.362,1.362,0,0,1,0,1.711.908.908,0,0,1-1.439,0h0L7.787,2.95l-6.045,7.2h0" transform="matrix(0.999, -0.035, 0.035, 0.999, 0, 0.546)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
